@@ -2,8 +2,8 @@
 
 ##Fibbonacci
 
-Leonardo Pisano detto il Fibonacci (Pisa, settembre 1170 circa – Pisa, 1242 circa[1]) è stato un matematico italiano.
-È considerato uno dei più grandi matematici di tutti i tempi.[2] Con altri dell'epoca contribuì alla rinascita delle scienze esatte dopo la decadenza dell'età tardo-antica e 
+Leonardo Pisano detto il Fibonacci (Pisa, settembre 1170 circa – Pisa, 1242 circa) è stato un matematico italiano.
+È considerato uno dei più grandi matematici di tutti i tempi.Con altri dell'epoca contribuì alla rinascita delle scienze esatte dopo la decadenza dell'età tardo-antica e 
 dell'Alto Medioevo. Con lui, in Europa, ci fu l'unione fra i procedimenti della geometria greca euclidea (gli Elementi) e gli strumenti matematici di calcolo elaborati dalla 
 scienza araba .
 ##Enunciato
