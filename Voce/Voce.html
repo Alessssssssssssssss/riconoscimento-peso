@@ -108,41 +108,40 @@
 
 		switch (x) {
 
-		case (x="prendi"):
+		case (x="913"):
 		z =  "Ricevuto Corobot prende l'oggetto";
-		document.getElementById("control1").value = "true";
-		document.getElementById("control2").value = "false";
-		document.getElementById("btnON").click();
 		break;
 
-		case (x="Prendi"):
+		case (x="931"):
 		z =  "Ricevuto Corobot prende l'oggetto";
-		document.getElementById("control1").value = "true";
-		document.getElementById("control2").value = "false";
-		document.getElementById("btnON").click();
 
 		break;
 
-		case (x="stop"):
-		z =  "Ricevuto Corobot si arresta";
-		document.getElementById("control2").value = "true";
-		document.getElementById("control1").value = "false";
-		document.getElementById("btnOFF").click();
+		case (x="391"):
+		z =  "Complimenti hai indovinato";
+
 		break;
 
-		case (x="Stop"):
-		z =  "Ricevuto Corobot si arresta";
-		document.getElementById("control2").value = "true";
-		document.getElementById("control1").value = "false";
-		document.getElementById("btnOFF").click();
+		case (x="319"):
+		z =  "Complimenti hai indovinato";
+
 		break;
 
-		case (x="ferma"):
-		z =  "Ricevuto Corobot si arresta";
-		document.getElementById("control2").value = "true";
-		document.getElementById("control1").value = "false";
-		document.getElementById("btnOFF").click();
+		case (x="139"):
+		z =  "Complimenti hai indovinato";
+
+		break;
+				
+		case (x="193"):
+		z =  "Complimenti hai indovinato";
+
 		break;	
+			
+		case (x=""):
+		z =  "Stop";
+
+		break;	
+
 
 		default :
 		z = "Corobot attende ";
@@ -158,15 +157,7 @@
     <p></p>
 
 
-	<form>
-	<input type="text" id="control1"  name='"ON"'>
-	<input id="btnON" type="submit" value="ON">
-	</form>
 
-	<form>
-	<input type="text" id="control2"  name='"OFF"'>
-	<input id="btnOFF" type="submit" value="OFF">
-	</form>
 
 
   </body>
