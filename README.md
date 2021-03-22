@@ -12,6 +12,6 @@ Usando una bilancia a due piatti che devono pesare 13 oggetti di pesio crescente
 ## Dove rispondere?
 
 Per rispondere al quesito entra nella pagina di risposte e segui le istruzioni, divertiti...<br>
-[Pagina di risposta] https://github.com/Alessssssssssssssss/riconoscimento-peso/blob/main/Voce/Voce.html
+[Pagina di risposta] https://Google/Voce.html
 
 
